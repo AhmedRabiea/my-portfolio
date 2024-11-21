@@ -81,7 +81,7 @@ export const projects = [
   {
     id: 2,
     title: "SAP Supplier Portal",
-    des: "centeralized platform for SAP users to manage their sap projects and equations using Next.js.",
+    des: "centralized platform for SAP users to manage their sap projects and equations using Next.js.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "/ui.yoom.com",
@@ -101,5 +101,23 @@ export const projects = [
     img: "/project4.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "/ui.apple.com",
+  },
+];
+
+export const highlights = [
+  {
+    quote:
+      "Bachelor of Software Engineering graduate with a strong foundation in software development, problem-solving, and modern programming practices. Proficient in designing, building, and optimizing scalable applications to deliver impactful user experiences.",
+    title: "Bacelor Of Software Engineering",
+  },
+  {
+    quote:
+      "Skilled in JavaScript and ES6, with a deep understanding of advanced features such as async/await, destructuring, and modular programming. Committed to writing clean, efficient, and maintainable code for responsive, high-performance applications.",
+    title: "Mastering Javascript And ES6",
+  },
+  {
+    quote:
+      "Expert in React.js and Next.js, with extensive experience in building high-performance, SEO-friendly, and scalable web applications. Skilled in leveraging React hooks, Next.js routing, server-side rendering, and API integration to create seamless user experiences.",
+    title: "Expertise React.js And Next.js",
   },
 ];
